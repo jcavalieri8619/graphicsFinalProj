@@ -19,3 +19,6 @@ the objects so the objects will travel out of the field of view and back in peri
 takes a minute to load because there is a high-res image in background.
 
 link: http://www.cs.uml.edu/~jcavalie/427546s2017/prog-hws/5/
+
+
+![alt text](https://github.com/jcavalieri8619/graphicsFinalProj/blob/master/graphics_1.png)
